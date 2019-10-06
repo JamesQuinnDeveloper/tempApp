@@ -1,0 +1,22 @@
+{
+  "name": "tempapp",
+  "version": "1.0.0",
+  "description": "temperature charting app from sensor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesQuinnDeveloper/tempApp.git"
+  },
+  "author": "James Quinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesQuinnDeveloper/tempApp/issues"
+  },
+  "homepage": "https://github.com/JamesQuinnDeveloper/tempApp#readme",
+  "dependencies": {
+    "dc": "^3.1.5"
+  }
+}
