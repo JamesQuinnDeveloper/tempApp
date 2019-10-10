@@ -18,6 +18,7 @@
   "homepage": "https://github.com/JamesQuinnDeveloper/tempApp#readme",
   "dependencies": {
     "chart.js": "^2.8.0",
-    "dc": "^3.1.5"
+    "dc": "^3.1.5",
+    "edge-js": "^12.3.1"
   }
 }
